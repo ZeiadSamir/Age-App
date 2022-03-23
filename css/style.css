@@ -65,7 +65,7 @@
         -moz-appearance: textfield;
         }
         input[type=number]::placeholder{
-            font-size: 12px;
+            font-size: 16px;
         }
         p{
             text-align: left;
