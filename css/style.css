@@ -64,6 +64,9 @@
         input[type=number] {
         -moz-appearance: textfield;
         }
+        input[type=text]::placeholder{
+            font-size: 16px;
+        }
         input[type=number]::placeholder{
             font-size: 16px;
         }
