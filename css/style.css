@@ -152,10 +152,12 @@ footer p a{
         margin-top: 25%;
         width: 200px;
         display: block;
+        font-size: 16px!important
     }
     input[type=number]{
         width: 200px;
         display: block;
+        font-size: 16px!important
     }
     .main-btn{
             flex: 0%;
